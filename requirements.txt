@@ -1,0 +1,3 @@
+scrapli==2022.7.30
+scrapli-netconf==2022.7.30 
+xmltodict==0.13.0
